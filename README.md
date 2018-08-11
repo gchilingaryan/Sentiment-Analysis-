@@ -6,7 +6,7 @@ The training data is a combination of different datasets for sentiment analysis 
 Using Keras library, LSTM (Long Short Term Memory) and CNN (Convolutional Neural Network).
 
 For the web app, just run:  
-`cd site
+`cd site  
 python app.py`  
 Then open a browser in the default address (`http://127.0.0.1:5000/`).  
 
